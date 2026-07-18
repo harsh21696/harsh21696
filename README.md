@@ -87,19 +87,17 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh21696&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harsh21696&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true" />
+</p>
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- <div align="center">
 
