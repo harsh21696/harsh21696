@@ -13,7 +13,7 @@
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <!-- LinkedIn -->
@@ -29,7 +29,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,postman,java,nodejs&theme=dark" />
 
@@ -44,7 +44,7 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ---
 
-## 📂 Projects
+##  Projects
 
 ### 🔹 Touchless Hand Sanitizer Dispenser (Arduino Project)
 🔗 https://github.com/harsh21696
@@ -93,7 +93,7 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ---
 
-## ✍️ Dev Quote
+##  Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?theme=dark)
 
