@@ -89,7 +89,7 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 <div align="center">
 
-  <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
 
