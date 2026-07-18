@@ -87,6 +87,17 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+  <img height="150" src="https://streak-stats.demolab.com?user=akshq96&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=akshq96&layout=compact&theme=radical" alt="Most Used Languages" />
+  
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=harsh21696&theme=dark&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=harsh21696&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=dark)
