@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Harsh Wardhan</h1>
+<h1 align="center">Hi , I'm Harsh Wardhan</h1>
 <h3 align="center">BTech CSE Student | Java & DSA | Web & Backend Learner | India 🇮🇳</h3>
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 BTech 3rd Year Computer Science Engineering Student  
-- 💻 Passionate about Java, DSA and Software Development  
-- 🌱 Currently learning **JavaScript, React and Backend fundamentals**  
-- 📌 Looking for **Internship / Entry-Level Software Developer roles**  
-- 🚀 Solving DSA problems on LeetCode in Java  
+-  BTech 3rd Year Computer Science Engineering Student  
+-  Passionate about Java, DSA and Software Development  
+-  Currently learning **JavaScript, React and Backend fundamentals**  
+-  Looking for **Internship / Entry-Level Software Developer roles**  
+-  Solving DSA problems on LeetCode in Java  
 
 ---
 
