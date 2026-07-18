@@ -89,6 +89,20 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=harsh21696&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<!-- <div align="center">
+
   <img height="150" src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true" />
 
   <br/><br/>
@@ -100,7 +114,7 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ![](https://github-readme-stats.vercel.app/api?username=harsh21696&theme=dark&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=harsh21696&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=dark) -->
 
 ---
 
