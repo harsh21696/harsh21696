@@ -38,6 +38,12 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 📂 Projects
 
 ### 🔹 Touchless Hand Sanitizer Dispenser (Arduino Project)
