@@ -5,11 +5,11 @@
 
 ##  About Me
 
--  BTech 3rd Year Computer Science Engineering Student  
+-  Final Year Computer Science Engineering Student  
 -  Passionate about Java, DSA and Software Development  
--  Currently learning **JavaScript, React and Backend fundamentals**  
--  Looking for **Internship / Entry-Level Software Developer roles**  
--  Solving DSA problems on LeetCode in Java  
+-  Currently learning **JavaScript, React FrameWorks and Backend fundamentals**  
+-  Looking for **Entry-Level Software Developer roles**  
+-  Solved 400+ DSA problems on LeetCode  
 
 ---
 
