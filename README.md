@@ -33,7 +33,7 @@
 
 ##  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,postman,java,nodejs,databricks,angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,postman,java,nodejs,angular&theme=dark" />
 
 **Frameworks & Concepts:**  
 Data Structures & Algorithms • OOP • Problem Solving • Web Development • Backend Basics
