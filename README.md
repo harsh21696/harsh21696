@@ -96,28 +96,14 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api?username=Harsh21696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh21696&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh21696&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh21696&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh21696&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
+## 🏆 Achievements
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Harsh21696&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" 
-    width="850"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harsh21696&theme=tokyonight&no-frame=true&no-bg=true&column=6" width="90%" />
 </p>
 
 
