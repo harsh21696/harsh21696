@@ -3,13 +3,15 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
--  Final Year Computer Science Engineering Student  
--  Passionate about Java, DSA and Software Development  
--  Currently learning **JavaScript, React FrameWorks and Backend fundamentals**  
--  Looking for **Entry-Level Software Developer roles**  
--  Solved 400+ DSA problems on LeetCode  
+- Final Year Computer Science Engineering student at **DIT University, Dehradun**
+- Passionate about **Java, Data Structures & Algorithms and Software Development**
+- Experienced with **Java, JavaScript, React, Node.js, MongoDB, SQL, Python and PySpark**
+- Completed an **8-week Data Engineering Internship at Celebal Technologies**
+- Currently strengthening my skills in **Full-Stack Development, Data Engineering and Cloud Technologies**
+- Solved **400+ DSA problems on LeetCode**
+- Looking for **Entry-Level Software Developer / Full-Stack Developer roles**
 
 ---
 
@@ -31,7 +33,7 @@
 
 ##  Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,postman,java,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,postman,java,nodejs,spark,python,sql,angular&theme=dark" />
 
 **Frameworks & Concepts:**  
 Data Structures & Algorithms • OOP • Problem Solving • Web Development • Backend Basics
@@ -46,33 +48,39 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ##  Projects
 
-### 🔹 Touchless Hand Sanitizer Dispenser (Arduino Project)
-🔗 https://github.com/harsh21696
+### 🔹 Customer Support Ticket Resolution Pipeline
 
-- Built a contact-free hand sanitizer dispenser using Arduino
-- Used sensors for automation
-- Focused on real-world hardware and embedded system use
+🔗 [View Project](./celebalassignment/Customer-Support-Ticket-Resolution-Pipeline)
 
-**Tech:** Arduino, Sensors, Embedded Systems
+- Built an end-to-end **ETL and Big Data pipeline** for customer support ticket data
+- Ingested raw CSV data from **Azure Data Lake Storage Gen2**
+- Implemented **Medallion Architecture** using Bronze, Silver and Gold layers
+- Performed data cleaning, validation and transformation using **PySpark**
+- Implemented resolution-time parsing, quality thresholds, Team Lead scope filtering and Day 2 carry-over logic
+- Generated team-level, agent-level and quality-compliance KPIs
+- Prepared Gold-layer datasets for **Power BI dashboards**
 
----
+**Tech:** Python, PySpark, Apache Spark, Azure Databricks, ADLS Gen2, Delta Lake, Unity Catalog, Power BI
 
-### 🔹 Rock Paper Scissors Game (Web Mini Project)
+### 🔹 YouTube Data Engineering & Analytics
 
-- Created an interactive browser game
-- Implemented game logic using JavaScript
-- Clean and simple UI
+- Built a data pipeline for processing and analyzing YouTube dataset information
+- Performed data ingestion, transformation and analytical processing
+- Used distributed processing concepts for handling large datasets
+- Generated analytical insights from processed data
+- Worked with cloud-based data engineering technologies
 
-**Tech:** HTML, CSS, JavaScript
+**Tech:** Python, PySpark, Databricks, Azure, SQL
 
----
+### 🔹 Real-Time Chatting Application
 
-### 🔹 Student / Library Management System (Planned – Backend Project)
+- Developed a **client-server based real-time chatting application** using Java
+- Implemented client-server communication using **Java Socket Programming**
+- Built an interactive desktop UI using **Java Swing and AWT**
+- Designed separate Client and Server components for connection management and message exchange
+- Applied **Object-Oriented Programming and networking concepts** to build the application
 
-- Java based backend project
-- CRUD operations
-- Database integration
-- REST APIs (planned)
+**Tech:** Java, Swing, AWT, Socket Programming, Networking, OOP
 
 ---
 
@@ -88,16 +96,10 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh21696&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh21696&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh21696&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh21696&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh21696&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <!-- <div align="center">
 
