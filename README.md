@@ -95,8 +95,6 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img 
     src="https://github-readme-stats.shion.dev/api?username=Harsh21696&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
