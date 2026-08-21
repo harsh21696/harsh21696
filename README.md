@@ -74,7 +74,7 @@ Data Structures & Algorithms • OOP • Problem Solving • Web Development •
 
 ### 🔹 Real-Time Chatting Application
 
-🔗 [View Project](zoho-collabspace.vercel.app).
+🔗 [View Project](https://github.com/harsh21696/ZoHo_Chatting_App).
 
 - Developed a **client-server based real-time chatting application** using Java
 - Implemented client-server communication using **Java Socket Programming**
